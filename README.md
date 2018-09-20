@@ -4,6 +4,8 @@
 
 ## BILIBILI 账号
 
+BILIBILI 账号：[点击进入表格](https://thentrue.com/SNH48/BILIBILI%2048.htm "BILIBILI 账号")
+
 1.共包含**五份**表格：总表、SNH48、GNZ48、BEJ48、其他。
 
 2.表格包括**现在役**以及**已退团**成员，按照姓名**首字母**排序。
