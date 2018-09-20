@@ -4,7 +4,7 @@
 
 ## BILIBILI 账号
 
-BILIBILI 账号：[点击进入表格](https://thentrue.com/SNH48/BILIBILI%2048.htm "BILIBILI 账号")
+BILIBILI 账号：[点击进入表格](https://thentrue.com/SNH48/BILIBILI48.htm "BILIBILI 账号")
 
 1.共包含**七份**表格：总表、SNH48、GNZ48、BEJ48、SHY48、CKG48、其他。
 
