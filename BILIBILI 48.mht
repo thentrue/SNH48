@@ -1,0 +1,2695 @@
+MIME-Version: 1.0
+X-Document-Type: Workbook
+Content-Type: multipart/related; boundary="----=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8"
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns=3D"http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta name=3D"Excel Workbook Frameset"/>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"/>
+  <meta name=3D"ProgId" content=3D"Excel.Sheet"/>
+  <meta name=3D"Generator" content=3D"WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Author>Administrator</o:Author>
+     <o:Created>2018-09-20T13:27:47</o:Created>
+     <o:LastAuthor>Administrator</o:LastAuthor>
+     <o:LastSaved>2018-09-20T16:10:26</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt=3D"string">2052-10.1.0.7400</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <link rel=3D"File-List" href=3D"BILIBILI 48.files/filelist.xml"/>
+  <link id=3D"shLink" href=3D"BILIBILI 48.files/sheet001.htm"/>
+  <link id=3D"shLink" href=3D"BILIBILI 48.files/sheet002.htm"/>
+  <link id=3D"shLink" href=3D"BILIBILI 48.files/sheet003.htm"/>
+  <link id=3D"shLink" href=3D"BILIBILI 48.files/sheet004.htm"/>
+  <link id=3D"shLink" href=3D"BILIBILI 48.files/sheet005.htm"/>
+  <script src=3D"BILIBILI 48.files\js.js"></script>
+  <script type=3D"text/javascript">window.g_iIEVer=3DfnGetIEVer();fnBuildFrameset(0);</script>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>&#24635;&#34920;</x:Name>
+       <x:WorksheetSource HRef=3D"BILIBILI 48.files/sheet001.htm"/>
+      </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>SNH48</x:Name>
+       <x:WorksheetSource HRef=3D"BILIBILI 48.files/sheet002.htm"/>
+      </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>GNZ48</x:Name>
+       <x:WorksheetSource HRef=3D"BILIBILI 48.files/sheet003.htm"/>
+      </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>BEJ48</x:Name>
+       <x:WorksheetSource HRef=3D"BILIBILI 48.files/sheet004.htm"/>
+      </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>&#20854;&#20182;</x:Name>
+       <x:WorksheetSource HRef=3D"BILIBILI 48.files/sheet005.htm"/>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:Stylesheet HRef=3D"BILIBILI 48.files/stylesheet.css"/>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:WindowHeight>8370</x:WindowHeight>
+     <x:WindowWidth>20385</x:WindowWidth>
+    </x:ExcelWorkbook>
+    <x:ExcelName>
+     <x:Name>_FilterDatabase</x:Name>
+     <x:Hidden/>
+     <x:SheetIndex>1</x:SheetIndex>
+     <x:Formula>=3D&#24635;&#34920;!$A$2:$C$107</x:Formula>
+    </x:ExcelName>
+    <x:SupBook>
+     <x:Path>C:\Users\Administrator\Desktop\</x:Path>
+    </x:SupBook>
+   </xml>
+  <![endif]-->
+ </head>
+ <frameset rows=3D"*,36" border=3D"0" width=3D"0" frameborder=3D"no">
+  <frame src=3D"BILIBILI 48.files/sheet001.htm" name=3D"frSheet" noresize/>
+  <frame src=3D"BILIBILI 48.files/tabstrip.htm" name=3D"frTabs" marginwidth=3D"0" marginheight=3D"0"/>
+  <noframes>
+   <body>
+    <p>&#27492;&#39029;&#38754;&#20351;&#29992;&#20102;&#26694;&#26550;&#65292;&#32780;&#24744;&#30340;&#27983;&#35272;&#22120;&#19981;&#25903;&#25345;&#26694;&#26550;</p>
+   </body>
+  </noframes>
+ </frameset>
+</html>
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/js.js
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+var c_lTabs=3D5;
+var c_rgszSh=3Dnew Array(c_lTabs);
+c_rgszSh[0]=3D"&#24635;&#34920;";
+c_rgszSh[1]=3D"SNH48";
+c_rgszSh[2]=3D"GNZ48";
+c_rgszSh[3]=3D"BEJ48";
+c_rgszSh[4]=3D"&#20854;&#20182;";
+var g_iShCur=3D0;
+var g_rglTabX=3Dnew Array(c_lTabs+1);
+var g_clrs=3Dnew Array(8);
+g_clrs[0]=3D"window";
+g_clrs[1]=3D"buttonface";
+g_clrs[2]=3D"windowframe";
+g_clrs[3]=3D"windowtext";
+g_clrs[4]=3D"threedlightshadow";
+g_clrs[5]=3D"threedhighlight";
+g_clrs[6]=3D"threeddarkshadow";
+g_clrs[7]=3D"threedshadow";
+
+function fnGetIEVer() 
+{
+	var ua =3D window.navigator.userAgent;
+	var msie =3D ua.indexOf("MSIE");
+	if (msie > 0 && window.navigator.platform =3D=3D "Win32")
+		return parseInt(ua.substring(msie+5, ua.indexOf(".",msie)));
+	else
+		return 0;
+}
+function fnMouseOverTab(event, iTab)
+{
+	if (iTab !=3D g_iShCur){
+		if (parent.window.g_iIEVer>=3D4){
+			frames['frTabs'].event.srcElement.style.background=3Dg_clrs[5];
+		}
+		else{
+			event.target.style.background=3Dg_clrs[5];		}
+	}
+}
+function fnMouseOutTab(event, iTab)
+{
+	if (iTab >=3D 0 && iTab !=3D g_iShCur){
+		if (parent.window.g_iIEVer >=3D 4)
+			frames['frTabs'].event.srcElement.style.background=3Dg_clrs[1];
+		else
+			target=3Devent.target.style.background=3Dg_clrs[1];
+	}
+}
+function fnSetTabProps(iTab, fActive)
+{
+	if (iTab>=3D0){
+		with (frames['frTabs'].document.all.aTab[iTab].style){
+			background =3D fActive ? "#B0E0E6" : g_clrs[1];
+			cursor =3D (fActive ? "default" : "pointer");
+		}
+	}
+}
+function fnSetActiveSheet(iSh)
+{
+	if (iSh !=3D g_iShCur){
+		fnSetTabProps(g_iShCur, false);
+		fnSetTabProps(iSh, true);
+		g_iShCur =3D iSh;
+	}
+}
+function fnInit()
+{
+	g_rglTabX[0] =3D 0;
+	var row =3D frames['frTabs'].document.all.tbTabs.rows[0];
+	for (var i =3D 1; i <=3D c_lTabs; ++i)
+		g_rglTabX[i] =3D row.cells[i-1].offsetLeft + row.cells[i-1].offsetWidth;
+	fnSetTabProps(g_iShCur, true);
+}
+function fnUpdateTabs(index)
+{
+	if (index < 0)
+		return;
+	if (document.readyState =3D=3D "complete")
+		fnSetActiveSheet(index);
+	else
+		window.setTimeout("fnUpdateTabs("+index+");",150);
+}
+function fnBuildFrameset(index)
+{
+	var szHTML =3D "<frameset rows=3D\"*,18px\" border=3D0 width=3D0 frameborder=3Dno framespacing=3D0>" + "<frame src=3D\""+document.all.item("shLink")[index].href+"\" name=3D\"frSheet\" noresize>" + "<frameset cols=3D\"80px,*\" border=3D0 width=3D0 frameborder=3Dno framespacing=3D0>"+"<frame name=3D\"frScroll\" marginwidth=3D0 marginheight=3D0 scrolling=3Dno noresize>"+"<frame name=3D\"frTabs\" marginwidth=3D0 marginheight=3D0 scrolling=3Dno noresize>"+"</frameset></frameset>";
+	with (document){
+		open('text/html', 'replace');
+		write(szHTML);
+		close();
+	}
+	fnBuildTabStrip();
+}
+function fnNextTab(fDir)
+{
+	var iNextTab =3D -1;
+	var i;
+	with (frames['frTabs'].document.body){
+		if (fDir =3D=3D 0){
+			if (scrollLeft > 0){
+				for (i =3D 0; i < c_lTabs && g_rglTabX[i] < scrollLeft; ++i);
+				if ( i < c_lTabs)
+					iNextTab =3D i - 1;
+			}
+		}
+		else{
+			if (g_rglTabX[c_lTabs] > offsetWidth + scrollLeft){
+				for (i =3D 0; i < c_lTabs && g_rglTabX[i] <=3D scrollLeft; ++i);
+				if (i < c_lTabs)
+					iNextTab=3Di;
+			}
+		}
+	}
+	return iNextTab;
+}
+function fnScrollTabs(fDir)
+{
+	var iNextTab =3D fnNextTab(fDir);
+	if (iNextTab >=3D 0){
+		frames['frTabs'].scroll(g_rglTabX[iNextTab], 0);
+		return true;
+	}
+	else
+		return false;
+}
+function fnFastScrollTabs(fDir)
+{
+	if (c_lTabs > 16)
+		frames['frTabs'].scroll(g_rglTabX[fDir ? c_lTabs-1 : 0], 0);
+	else if (fnScrollTabs(fDir) > 0)
+		window.setTimeout("fnFastScrollTabs("+fDir+");", 5);
+}
+function fnMouseOverScroll(iCtl)
+{
+	frames['frScroll'].document.all.tdScroll[iCtl].style.color =3D g_clrs[7];
+}
+function fnMouseOutScroll(iCtl)
+{
+	frames['frScroll'].document.all.tdScroll[iCtl].style.color =3D g_clrs[6];
+}
+function fnBuildTabStrip()
+{
+	var szHTML =3D "<html><head><style>.clScroll{font:8pt Courier New;cursor:default;line-height:10pt;}"+".clScroll2{font:10pt Arial;cursor:default;line-height:11pt;}</style></head>"+"<body topmargin=3D0 leftmargin=3D0><table border=3D1 cellpadding=3D0 cellspacing=3D0 width=3D100%>"+"<tr>"+"<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.fnFastScrollTabs(0);\" ondblclick=3D\"parent.fnFastScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(0);\" onmouseout=3D\"parent.fnMouseOutScroll(0);\">&nbsp;&#171;&nbsp;</td>"+"<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.fnScrollTabs(0);\" ondblclick=3D\"parent.fnScrollTabs(0);\" onmouseover=3D\"parent.fnMouseOverScroll(1);\" onmouseout=3D\"parent.fnMouseOutScroll(1);\">&nbsp;&lt;&nbsp;</td>"+"<td valign=3Dtop id=3DtdScroll class=3D\"clScroll2\" onclick=3D\"parent.fnScrollTabs(1);\" ondblclick=3D\"parent.fnScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(2);\" onmouseout=3D\"parent.fnMouseOutScroll(2);\">&nbsp;&gt;&nbsp;</td>"+"<td valign=3Dtop id=3DtdScroll class=3D\"clScroll\" onclick=3D\"parent.fnFastScrollTabs(1);\" ondblclick=3D\"parent.fnFastScrollTabs(1);\" onmouseover=3D\"parent.fnMouseOverScroll(3);\" onmouseout=3D\"parent.fnMouseOutScroll(3);\">&nbsp;&#187;&nbsp;</td>"+"</tr></table></body></html>";
+	with (frames['frScroll'].document){
+		open("text/html","replace");
+		write(szHTML);
+		close();
+	}
+	szHTML =3D "<html><head>"+"<style>A:link,A:visited,A:active{text-decoration:none;"+"color:#000000;}"+".clTab{cursor:hand;background:"+g_clrs[1]+";font:9pt \"&#23435;&#20307;\";padding-left:3px;padding-right:3px;text-align:center;}"+"</style></head><body onload=3D\"parent.fnInit();\" topmargin=3D0 leftmargin=3D0><table id=3DtbTabs border=3D1 cellpadding=3D0 cellspacing=3D0><tr>"; 
+	for (i =3D 0; i < c_lTabs; ++i){
+		szHTML+=3D"<td id=3DtdTab height=3D1 nowrap class=3D\"clTab\" "+"onmouseover=3D\"parent.fnMouseOverTab(event," + i + ");\" onmouseout=3D\"parent.fnMouseOutTab(event,"+i+");\">"+"<a href=3D\""+document.all.item("shLink")[i].href+"\" target=3D\"frSheet\" id=3DaTab>&nbsp;"+c_rgszSh[i]+"&nbsp;</a></td>"; 
+	}
+	szHTML +=3D "</tr></table></body></html>";
+	with (frames['frTabs'].document){
+		open('text/html','replace');
+		write(szHTML);
+		close();
+	}
+}
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/tabstrip.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html>
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+  <meta name=3D"ProgId" content=3D"Excel.Sheet"/>
+  <meta name=3D"Generator" content=3D"WPS Office ET"/>
+  <link id=3D"Main-File" rel=3D"Main-File" href=3D"../BILIBILI 48.mht"/>
+  <style>A:link,A:visited,A:active{text-decoration:none;color:#000000;font-size:9pt;}		 table{cursor:hand;background:buttonface;font:9pt &#23435;&#20307;;text-align:center;}		 td{white-space:nowrap}</style>
+  <script language=3D"JavaScript">if(window.name!=3D'frTabs')
+ 	window.location.replace(document.getElementById('Main-File').href);</script>
+ </head>
+ <body style=3D'margin:"0";'>
+  <table border=3D"1" cellspacing=3D"0">
+   <tr>
+    <td><a href=3D"sheet001.htm" target=3D"frSheet">&nbsp;&#24635;&#34920;&nbsp;</a></td>
+    <td><a href=3D"sheet002.htm" target=3D"frSheet">&nbsp;SNH48&nbsp;</a></td>
+    <td><a href=3D"sheet003.htm" target=3D"frSheet">&nbsp;GNZ48&nbsp;</a></td>
+    <td><a href=3D"sheet004.htm" target=3D"frSheet">&nbsp;BEJ48&nbsp;</a></td>
+    <td><a href=3D"sheet005.htm" target=3D"frSheet">&nbsp;&#20854;&#20182;&nbsp;</a></td>
+   </tr>
+  </table>
+ </body>
+</html>
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/sheet001.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns=3D"http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+  <meta name=3D"ProgId" content=3D"Excel.Sheet"/>
+  <meta name=3D"Generator" content=3D"WPS Office ET"/>
+  <link id=3D"Main-File" rel=3D"Main-File" href=3D"../BILIBILI 48.mht"/>
+  <link rel=3D"File-List" href=3D"filelist.xml"/>
+  <link rel=3D"Stylesheet" href=3D"stylesheet.css"/>
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:Selected/>
+     <x:TopRowVisible>111</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveCol>1</x:ActiveCol>
+       <x:ActiveRow>128</x:ActiveRow>
+       <x:RangeSelection>B129</x:RangeSelection>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+     <x:PageBreakZoom>100</x:PageBreakZoom>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+     </x:Print>
+    </x:WorksheetOptions>
+   </xml>
+  <![endif]-->
+  <script language=3D"JavaScript">
+	if (window.name!=3D"frSheet")
+		window.location.replace("../BILIBILI 48.mht");
+	else
+		parent.fnUpdateTabs(0);
+</script>
+ </head>
+ <body link=3D"blue" vlink=3D"purple">
+  <table width=3D"467" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D'width:350.25pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width=3D"136" style=3D'mso-width-source:userset;mso-width-alt:4352;'/>
+   <col width=3D"224" style=3D'mso-width-source:userset;mso-width-alt:7168;'/>
+   <col width=3D"107" style=3D'mso-width-source:userset;mso-width-alt:3424;'/>
+   <tr height=3D"33.33" style=3D'height:25.00pt;mso-height-source:userset;mso-height-alt:500;'>
+    <td class=3D"xl77" height=3D"33.33" width=3D"136" style=3D'height:25.00pt;width:102.00pt;' x:str>&#22995;&#21517;</td>
+    <td class=3D"xl77" width=3D"224" style=3D'width:168.00pt;' x:str>&#26165;&#31216;</td>
+    <td class=3D"xl77" width=3D"107" style=3D'width:80.25pt;' x:str>UID</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl78" height=3D"26.67" style=3D'height:20.00pt;' x:str>BEJ48</td>
+    <td class=3D"xl78" x:str>BEJ48</td>
+    <td class=3D"xl79" x:num>26849519</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl80" height=3D"26.67" style=3D'height:20.00pt;' x:str>CKG48</td>
+    <td class=3D"xl78" x:str>CKG48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl79" x:num>174377185</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl66" height=3D"26.67" style=3D'height:20.00pt;' x:str>CKG48-&#26366;&#20339;</td>
+    <td class=3D"xl66" x:str>SORA&#37233;w</td>
+    <td class=3D"xl66" x:num>267026688</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl66" height=3D"26.67" style=3D'height:20.00pt;' x:str>CKG48-&#26519;&#33298;&#26228;</td>
+    <td class=3D"xl66" x:str>CKG48-&#26519;&#33298;&#26228;</td>
+    <td class=3D"xl66" x:num>251681696</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl78" height=3D"26.67" style=3D'height:20.00pt;' x:str>GNZ48</td>
+    <td class=3D"xl78" x:str>GNZ48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl79" x:num>27363163</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl78" height=3D"26.67" style=3D'height:20.00pt;' x:str>SHY48</td>
+    <td class=3D"xl78" x:str>SHY48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl79" x:num>71167845</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl66" height=3D"26.67" style=3D'height:20.00pt;' x:str>SII&#33310;&#36424;&#32769;&#24072; &#26417;&#23567;<span style=3D'display:none;'>&#24076;</span></td>
+    <td class=3D"xl66" x:str>raezzz</td>
+    <td class=3D"xl66" x:num>25688851</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl78" height=3D"26.67" style=3D'height:20.00pt;' x:str>SNH48</td>
+    <td class=3D"xl78" x:str>SNH48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl79" x:num>2832224</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl66" height=3D"26.67" style=3D'height:20.00pt;' x:str>SNH48-&#39290;&#23376;&#27036;</td>
+    <td class=3D"xl68" x:str>SNH48-&#39290;&#23376;&#27036;</td>
+    <td class=3D"xl66" x:num>20203379</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl66" height=3D"26.67" style=3D'height:20.00pt;' x:str>Team X</td>
+    <td class=3D"xl68" x:str>&#22868;&#36305;&#30340;GirlX</td>
+    <td class=3D"xl66" x:num>95305735</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl66" height=3D"26.67" style=3D'height:20.00pt;' x:str>TeamHII</td>
+    <td class=3D"xl66" x:str>H-ZONE</td>
+    <td class=3D"xl66" x:num>201810937</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#35266;&#24935;</td>
+    <td class=3D"xl81" x:str>&#22075;&#22075;&#21704;&#21704;&#30340;&#22825;&#19979;</td>
+    <td class=3D"xl81" x:num>192476819</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#26690;&#21531;</td>
+    <td class=3D"xl83" x:str>GNZ48-&#38472;&#26690;&#21531;</td>
+    <td class=3D"xl82" x:num>14202012</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#24935;&#23143;</td>
+    <td class=3D"xl82" x:str>_Boss_Chen_</td>
+    <td class=3D"xl82" x:num>4673214</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#20426;&#23439;</td>
+    <td class=3D"xl83" x:str>&#22812;&#21941;w</td>
+    <td class=3D"xl82" x:num>8315451</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#29634;</td>
+    <td class=3D"xl82" x:str>&#27491;&#20041;&#30340;ck</td>
+    <td class=3D"xl82" x:num>22643703</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#29747;</td>
+    <td class=3D"xl84" x:str>&#38472;&#38463;&#29747;</td>
+    <td class=3D"xl81" x:num>4275132</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#26976;&#33564;</td>
+    <td class=3D"xl82" x:str>&#38472;&#26976;&#33564;&#21271;</td>
+    <td class=3D"xl82" x:num>3082135</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#27427;&#22948;</td>
+    <td class=3D"xl82" x:str>&#33521;&#23156;&#32654;&#20195;&#23376;</td>
+    <td class=3D"xl82" x:num>349787</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#38632;&#29738;</td>
+    <td class=3D"xl83" x:str>&#31171;&#24043;&#20024;&#23376;</td>
+    <td class=3D"xl82" x:num>10618034</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38472;&#38891;&#20940;</td>
+    <td class=3D"xl84" x:str>cyl_is_true</td>
+    <td class=3D"xl81" x:num>241587033</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26460;&#38632;&#24494;</td>
+    <td class=3D"xl82" x:str>&#21654;&#21937;&#30333;</td>
+    <td class=3D"xl82" x:num>1662944</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#27573;&#33402;&#29831;</td>
+    <td class=3D"xl86" x:str>&#27573;&#33402;&#29831;&#30340;&#40065;&#25289;&#40065;&#25289;&#21499;</td>
+    <td class=3D"xl87" x:num>85592005</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#36153;&#27777;&#28304;</td>
+    <td class=3D"xl81" x:str>&#36153;&#27777;&#28304;&#21834;</td>
+    <td class=3D"xl81" x:num>179411206</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#20911;&#22025;&#24076;</td>
+    <td class=3D"xl82" x:str>&#30591;&#26234;&#30340;&#24076;&#23453;</td>
+    <td class=3D"xl82" x:num>10237013</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#39640;&#28304;&#23143;</td>
+    <td class=3D"xl82" x:str>oxygen&#19981;&#21507;&#22823;&#30424;&#40481;</td>
+    <td class=3D"xl82" x:num>207060928</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#39038;&#39321;&#21531;</td>
+    <td class=3D"xl81" x:str>guchan&#39321;&#33735;</td>
+    <td class=3D"xl81" x:num>10414152</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl66" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#23506;&#24433;AkiNa</td>
+    <td class=3D"xl66" x:str>&#23506;&#24433;AkiNa</td>
+    <td class=3D"xl66" x:num>1315101</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#40657;&#21941;</td>
+    <td class=3D"xl81" x:str>&#24320;&#29483;&#23627;&#30340;&#23567;&#40657;&#26412;&#20154;</td>
+    <td class=3D"xl81" x:num>229741493</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#27946;&#38745;&#38639;</td>
+    <td class=3D"xl82" x:str>hjw&#30340;&#32451;&#20064;&#23567;&#21495;</td>
+    <td class=3D"xl82" x:num>37155175</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#27946;&#20329;&#38642;</td>
+    <td class=3D"xl84" x:str>&#27946;&#32769;&#26495;&#19981;&#21457;&#24037;&#36164;</td>
+    <td class=3D"xl81" x:num>23841374</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#40644;&#40654;&#33993;</td>
+    <td class=3D"xl82" x:str>&#25105;&#19981;&#20250;&#21578;&#35785;&#20320;&#25105;&#26159;&#40644;&#40654;&#33993;&#30340;</td>
+    <td class=3D"xl82" x:num>7437509</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#27743;&#30495;&#20202;</td>
+    <td class=3D"xl81" x:str>&#32431;&#21517;&#30334;&#21512;&#23376;</td>
+    <td class=3D"xl81" x:num>10399130</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#33931;&#33464;</td>
+    <td class=3D"xl81" x:str>&#26410;&#26469;.Mirai</td>
+    <td class=3D"xl81" x:num>114866</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl78" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21475;&#34955;48</td>
+    <td class=3D"xl78" x:str>&#34955;&#29579;&#35201;&#20107;&#24773;48</td>
+    <td class=3D"xl79" x:num>34793730</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26446;&#26230;</td>
+    <td class=3D"xl84" x:str>&#20102;&#19981;&#36215;&#30340;&#26446;&#32654;&#20029;&#23601;&#26159;&#20102;&#19981;&#36215;</td>
+    <td class=3D"xl81" x:num>289973982</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26446;&#27777;&#27905;</td>
+    <td class=3D"xl82" x:str>&#26165;&#31216;&#34987;&#25250;&#27880;&#20102;&#30340;kiko</td>
+    <td class=3D"xl82" x:num>5071733</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26446;&#24819;</td>
+    <td class=3D"xl85" x:str>&#20004;&#22359;&#38646;&#20116;</td>
+    <td class=3D"xl87" x:num>24656993</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26446;&#33402;&#24420;</td>
+    <td class=3D"xl81" x:str>&#27491;&#30452;&#23569;&#24180;&#26446;&#21457;&#21345;</td>
+    <td class=3D"xl81" x:num>49922172</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26446;&#23431;&#29738;</td>
+    <td class=3D"xl81" x:str>&#30333;&#29483;yuki</td>
+    <td class=3D"xl81" x:num>3882983</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26446;&#38026;</td>
+    <td class=3D"xl84" x:str>&#20320;&#26691;&#20320;&#26691;&#20320;&#26691;&#26691;</td>
+    <td class=3D"xl81" x:num>36054300</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26446;&#26771;</td>
+    <td class=3D"xl85" x:str>&#27599;&#22825;&#37117;&#22312;&#38271;&#39640;&#30340;Raichi&#37233;</td>
+    <td class=3D"xl87" x:num>20049958</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26753;&#21487;</td>
+    <td class=3D"xl82" x:str>&#21487;&#21487;&#24039;&#20811;&#21147;&#37233;</td>
+    <td class=3D"xl82" x:num>2227249</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26519;&#22025;&#20329;</td>
+    <td class=3D"xl83" x:str>GNZ48-&#26519;&#22025;&#20329;</td>
+    <td class=3D"xl82" x:num>22399988</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26519;&#26976;</td>
+    <td class=3D"xl81" x:str>&#19968;&#21482;&#26519;Luna</td>
+    <td class=3D"xl81" x:num>1848415</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26519;&#24518;&#23425;</td>
+    <td class=3D"xl81" x:str>ErikaP</td>
+    <td class=3D"xl81" x:num>148077</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21016;&#22025;&#24609;</td>
+    <td class=3D"xl82" x:str>&#19971;&#22969;__&#32650;&#39548;&#19971;</td>
+    <td class=3D"xl82" x:num>6963619</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21016;&#21147;&#33778;</td>
+    <td class=3D"xl82" x:str>&#34276;&#34276;&#29233;&#21507;&#34276;&#34276;&#33756;</td>
+    <td class=3D"xl82" x:num>133989527</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21016;&#26790;&#38597;</td>
+    <td class=3D"xl88" x:str>&#19968;&#29255;&#23567;&#27792;&#21494;</td>
+    <td class=3D"xl82" x:num>21673502</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21016;&#20329;&#37995;</td>
+    <td class=3D"xl81" x:str>&#23665;&#31481;&#40060;SaKaNa</td>
+    <td class=3D"xl81" x:num>290581648</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21016;&#20329;&#37995;</td>
+    <td class=3D"xl81" x:str>&#40060;&#37233;&#12373;&#12363;&#12394;</td>
+    <td class=3D"xl81" x:num>39425760</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21016;&#20521;&#20521;<span style=3D'mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class=3D"xl82" x:str>&#21016;&#29399;&#21097;&#23376;</td>
+    <td class=3D"xl82" x:num>106163203</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21016;&#22686;&#33395;</td>
+    <td class=3D"xl81" x:str>&#22679;&#12360;&#12427;</td>
+    <td class=3D"xl81" x:num>472626</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#40857;&#20134;&#29790;</td>
+    <td class=3D"xl82" x:str>&#22823;&#29790;&#23376;</td>
+    <td class=3D"xl82" x:num>2563979</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21525;&#19968;</td>
+    <td class=3D"xl81" x:str>&#33261;&#33050;&#30058;&#33540;</td>
+    <td class=3D"xl81" x:num>11399736</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#39532;&#29577;&#28789;</td>
+    <td class=3D"xl85" x:str>&#19981;MYL&#32641;</td>
+    <td class=3D"xl87" x:num>23553661</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#33707;&#23506;</td>
+    <td class=3D"xl81" x:str>&#33463;&#26132;momo</td>
+    <td class=3D"xl81" x:num>323856</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl89" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#28504;&#29141;&#29734;</td>
+    <td class=3D"xl81" x:str>Pinky5257</td>
+    <td class=3D"xl81" x:num>118804984</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#28504;&#29787;&#29738;</td>
+    <td class=3D"xl81" x:str>&#23569;&#22899;&#32701;&#32701;</td>
+    <td class=3D"xl81" x:num>2028753</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#25114;&#20104;&#29664;</td>
+    <td class=3D"xl84" x:str>&#25114;&#29664;&#22969;&#30340;&#23567;&#25151;&#38388;</td>
+    <td class=3D"xl81" x:num>327398898</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#31041;&#38745;</td>
+    <td class=3D"xl81" x:str>SKY&#178;</td>
+    <td class=3D"xl81" x:num>13949191</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#37041;&#27427;&#24609;</td>
+    <td class=3D"xl81" x:str>RealHayes</td>
+    <td class=3D"xl81" x:num>144873060</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#37045;&#38634;&#32874;</td>
+    <td class=3D"xl84" x:str>Coco&#37233;&#23567;&#27915;&#33905;</td>
+    <td class=3D"xl81" x:num>18736885</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl78" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#19997;&#33453;&#24433;&#35270;</td>
+    <td class=3D"xl90" x:str>&#19997;&#33453;&#24433;&#35270;</td>
+    <td class=3D"xl79" x:num>243824507</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#23435;&#26133;&#20873;</td>
+    <td class=3D"xl84" x:str>&#19968;&#39063;&#22826;&#38451;&#26143;rr</td>
+    <td class=3D"xl81" x:num>218837365</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#33487;&#26441;&#26441;</td>
+    <td class=3D"xl85" x:str>&#39764;&#27861;&#23569;&#22899;Air&#37233;</td>
+    <td class=3D"xl87" x:num>17196336</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#23385;&#33454;</td>
+    <td class=3D"xl81" x:str>&#23385;&#33454;&#33454;&#33454;&#33454;&#33454;&#33454;</td>
+    <td class=3D"xl81" x:num>11777755</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#23385;&#27462;&#25991;</td>
+    <td class=3D"xl84" x:str>&#19968;&#31859;&#20845;&#30340;news</td>
+    <td class=3D"xl81" x:num>35762397</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl91" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#23385;&#39336;</td>
+    <td class=3D"xl91" x:str>&#20013;&#27888;&#23567;&#34542;&#33136;</td>
+    <td class=3D"xl92" x:num>38444210</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38518;&#27874;&#23572;</td>
+    <td class=3D"xl84" x:str>&#35199;&#29916;&#26377;&#29483;</td>
+    <td class=3D"xl81" x:num>11679116</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#19975;&#20029;&#23068;</td>
+    <td class=3D"xl81" x:str>&#23567;&#23401;&#23376;&#23569;&#21507;&#31958;</td>
+    <td class=3D"xl81" x:num>3297131</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#29579;&#26575;&#30805;</td>
+    <td class=3D"xl81" x:str>Sukibiubiubiu</td>
+    <td class=3D"xl81" x:num>25530043</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#29579;&#28330;&#28304;</td>
+    <td class=3D"xl84" x:str>Maboroshi&#23567;&#24187;</td>
+    <td class=3D"xl81" x:num>8273687</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#29579;&#26195;&#20339;</td>
+    <td class=3D"xl84" x:str>&#22825;&#38477;&#39118;&#28378;&#33609;</td>
+    <td class=3D"xl81" x:num>789870</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#29579;&#26195;&#20339;</td>
+    <td class=3D"xl81" x:str>&#22825;&#33609;&#20022;&#26577;&#27224;&#29579;</td>
+    <td class=3D"xl81" x:num>391445</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21556;&#29141;&#25991;</td>
+    <td class=3D"xl81" x:str>&#21556;&#29141;&#25991;Wendy</td>
+    <td class=3D"xl81" x:num>18002553</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#20924;&#29130;&#26976;</td>
+    <td class=3D"xl82" x:str>&#31601;Sakura</td>
+    <td class=3D"xl82" x:num>1295871</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#35874;&#34174;&#34174;</td>
+    <td class=3D"xl82" x:str>hanaaa&#37233;</td>
+    <td class=3D"xl82" x:num>5607784</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#35874;&#22958;</td>
+    <td class=3D"xl81" x:str>&#22958;&#23376;&#34809;</td>
+    <td class=3D"xl81" x:num>3721975</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl93" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#29066;&#24515;&#29814;</td>
+    <td class=3D"xl93" x:str>&#33502;&#35895;Haruka</td>
+    <td class=3D"xl93" x:num>2168059</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#39036;&#20952;&#28800;</td>
+    <td class=3D"xl85" x:str>&#23567;&#26143;&#26143;&#26143;&#21714;</td>
+    <td class=3D"xl87" x:num>16481728</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24464;&#26199;</td>
+    <td class=3D"xl81" x:str>&#23567;&#28879;&#40860;&#22992;&#22992;</td>
+    <td class=3D"xl81" x:num>1985517</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24464;&#35799;&#29738;</td>
+    <td class=3D"xl81" x:str>&#39118;&#21561;&#23567;&#19971;&#21709;&#21486;&#24403;</td>
+    <td class=3D"xl81" x:num>8138650</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24464;&#20234;&#20154;<span style=3D'mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class=3D"xl81" x:str>349&#20170;&#22825;&#19981;&#33829;&#19994;</td>
+    <td class=3D"xl81" x:num>14801692</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24464;&#23376;&#36713;</td>
+    <td class=3D"xl81" x:str>&#32476;&#9734;</td>
+    <td class=3D"xl81" x:num>1846928</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#35768;&#20339;&#29738;</td>
+    <td class=3D"xl94" x:str>&#25105;&#26159;&#35768;&#20339;&#29738;&#20320;&#20449;&#19981;&#20449;</td>
+    <td class=3D"xl81" x:num>18873979</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#35768;&#26472;&#29577;&#29730;</td>
+    <td class=3D"xl81" x:str>&#35768;&#26472;&#29577;&#29730;&#26368;&#32874;&#26126;</td>
+    <td class=3D"xl81" x:num>24104130</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#38379;&#26126;&#31584;</td>
+    <td class=3D"xl85" x:str>&#33740;&#33735;&#21527;</td>
+    <td class=3D"xl87" x:num>3684011</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#20005;&#20348;&#21531;</td>
+    <td class=3D"xl81" x:str>&#20179;&#40736;&#28170;</td>
+    <td class=3D"xl81" x:num>139027513</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26472;&#20912;&#24609;</td>
+    <td class=3D"xl84" x:str>&#20108;&#27700;&#25165;&#19981;&#20108;</td>
+    <td class=3D"xl81" x:num>1668990</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26472;&#24800;&#23159;</td>
+    <td class=3D"xl81" x:str>&#28145;&#28023;&#34588;&#26586;</td>
+    <td class=3D"xl81" x:num>4226698</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26472;&#19968;&#24070;</td>
+    <td class=3D"xl85" x:str>&#19975;&#24694;&#23569;&#22899;&#26408;&#26131;</td>
+    <td class=3D"xl87" x:num>9261999</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#23002;&#31054;&#32431;</td>
+    <td class=3D"xl84" x:str>&#32431;&#32431;&#32431;&#21834;w</td>
+    <td class=3D"xl81" x:num>21771240</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#26131;&#22025;&#29233;</td>
+    <td class=3D"xl81" x:str>&#23432;&#24180;</td>
+    <td class=3D"xl81" x:num>1865110</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#34945;&#33322;</td>
+    <td class=3D"xl84" x:str>&#29436;&#29273;&#22303;&#35910;&#23569;&#22899;</td>
+    <td class=3D"xl81" x:num>6282427</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#34945;&#38632;&#26722;</td>
+    <td class=3D"xl81" x:str>&#19981;&#26159;&#20320;&#20426;&#30340;&#20426;</td>
+    <td class=3D"xl81" x:num>213790489</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24352;&#20025;&#19977;</td>
+    <td class=3D"xl81" x:str>dreaming_tansan</td>
+    <td class=3D"xl81" x:num>22317609</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24352;&#22025;&#20104;</td>
+    <td class=3D"xl81" x:str>&#8212;&#26771;&#27792;Azu&#8212;</td>
+    <td class=3D"xl81" x:num>4362314</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24352;&#29756;&#20104;</td>
+    <td class=3D"xl82" x:str>Rinako&#26446;&#22856;&#23376;</td>
+    <td class=3D"xl82" x:num>753038</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24352;&#26133;</td>
+    <td class=3D"xl81" x:str>&#32043;&#33756;xixixi</td>
+    <td class=3D"xl81" x:num>13895395</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#24352;&#24609;</td>
+    <td class=3D"xl84" x:str>&#26647;&#23376;&#26647;&#26647;&#26647;&#20029;</td>
+    <td class=3D"xl81" x:num>16548039</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#36213;&#26196;</td>
+    <td class=3D"xl81" x:str>&#38634;&#37326;&#37326;</td>
+    <td class=3D"xl81" x:num>2310475</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl82" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#37073;&#20025;&#22958;</td>
+    <td class=3D"xl82" x:str>&#33976;&#34507;&#27877;&#36229;&#22909;&#21507;</td>
+    <td class=3D"xl82" x:num>11930534</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl85" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#37073;&#19968;&#20961;</td>
+    <td class=3D"xl85" x:str>&#26159;&#20010;&#26641;&#25042;</td>
+    <td class=3D"xl87" x:num>109860136</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#21608;&#24609;</td>
+    <td class=3D"xl81" x:str>&#30862;&#30862;&#20054;&#23567;&#23401;</td>
+    <td class=3D"xl81" x:num>535729</td>
+   </tr>
+   <tr height=3D"26.67" style=3D'height:20.00pt;mso-height-source:userset;mso-height-alt:400;'>
+    <td class=3D"xl81" height=3D"26.67" style=3D'height:20.00pt;' x:str>&#37049;&#20339;&#20339;</td>
+    <td class=3D"xl81" x:str>&#20339;&#20339;&#20339;-zZ</td>
+    <td class=3D"xl81" x:num>18429568</td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>SNH48 Group Instagram &amp; Twitter &#36134;&#21495;&#21512;&#38598;</td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#21457;&#24067;&#20110; 2018-02-13 18:38:44<span style=3D'mso-spacerun:yes;'>&nbsp;</span></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl95" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str><a href=3D"http://t.cn/Ev3XBRz" target=3D"_parent" title=3D"http://t.cn/Ev3XBRz">http://t.cn/Ev3XBRz</a></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>GNZ48 Instagram &amp; Twitter &#36134;&#21495;&#23567;&#21512;&#38598;</td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#21457;&#24067;&#20110; 2017-04-27 15:59:03</td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl95" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str><a href=3D"http://t.cn/Ev3abnI" target=3D"_parent">http://t.cn/Ev3abnI</a></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>SNH48 Group Twitter&#36134;&#21495;&#21512;&#38598;</td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#21457;&#24067;&#20110; 2017-02-15 17:45:59<span style=3D'mso-spacerun:yes;'>&nbsp;</span></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl95" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str><a href=3D"http://t.cn/Ev3aiEk" target=3D"_parent">http://t.cn/Ev3aiEk</a></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>SNH48 Group Instagram&#36134;&#21495;&#21512;&#38598;</td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#21457;&#24067;&#20110; 2016-06-03 12:55:53<span style=3D'mso-spacerun:yes;'>&nbsp;</span></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl95" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str><a href=3D"http://t.cn/R8vrkid" target=3D"_parent">http://t.cn/R8vrkid</a></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" style=3D'height:14.25pt;' x:str>&#36716;&#36733;&#35831;&#27880;&#26126;&#20986;&#22788;&#12290;</td>
+    <td colspan=3D"2" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#39033;&#30446;&#22320;&#22336;&#65306;https://github.com/thentrue/SNH48</td>
+    <td></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width=3D"0" style=3D'display:none;'>
+     <td width=3D"136" style=3D'width:102;'></td>
+     <td width=3D"224" style=3D'width:168;'></td>
+     <td width=3D"107" style=3D'width:80;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/sheet002.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns=3D"http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+  <meta name=3D"ProgId" content=3D"Excel.Sheet"/>
+  <meta name=3D"Generator" content=3D"WPS Office ET"/>
+  <link id=3D"Main-File" rel=3D"Main-File" href=3D"../BILIBILI 48.mht"/>
+  <link rel=3D"File-List" href=3D"filelist.xml"/>
+  <link rel=3D"Stylesheet" href=3D"stylesheet.css"/>
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:TopRowVisible>54</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveCol>0</x:ActiveCol>
+       <x:ActiveRow>60</x:ActiveRow>
+       <x:RangeSelection>A61</x:RangeSelection>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+     <x:PageBreakZoom>100</x:PageBreakZoom>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+     </x:Print>
+    </x:WorksheetOptions>
+   </xml>
+  <![endif]-->
+  <script language=3D"JavaScript">
+	if (window.name!=3D"frSheet")
+		window.location.replace("../BILIBILI 48.mht");
+	else
+		parent.fnUpdateTabs(1);
+</script>
+ </head>
+ <body link=3D"blue" vlink=3D"purple">
+  <table width=3D"789" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D'width:591.75pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width=3D"239" span=3D"3" style=3D'mso-width-source:userset;mso-width-alt:7648;'/>
+   <col width=3D"72" style=3D'width:54.00pt;'/>
+   <tr height=3D"40" style=3D'height:30.00pt;mso-height-source:userset;mso-height-alt:600;'>
+    <td class=3D"xl74" height=3D"40" width=3D"239" style=3D'height:30.00pt;width:179.25pt;' x:str>&#22995;&#21517;</td>
+    <td class=3D"xl74" width=3D"239" style=3D'width:179.25pt;' x:str>&#26165;&#31216;</td>
+    <td class=3D"xl74" width=3D"239" style=3D'width:179.25pt;' x:str>UID</td>
+    <td class=3D"xl74" width=3D"72" style=3D'width:54.00pt;' x:str>&#39318;&#23383;&#27597;</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#38472;&#35266;&#24935;</td>
+    <td class=3D"xl66" x:str>&#22075;&#22075;&#21704;&#21704;&#30340;&#22825;&#19979;</td>
+    <td class=3D"xl66" x:num>192476819</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#38472;&#29747;</td>
+    <td class=3D"xl68" x:str>&#38472;&#38463;&#29747;</td>
+    <td class=3D"xl66" x:num>4275132</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#38472;&#38891;&#20940;</td>
+    <td class=3D"xl68" x:str>cyl_is_true</td>
+    <td class=3D"xl66" x:num>241587033</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#36153;&#27777;&#28304;</td>
+    <td class=3D"xl66" x:str>&#36153;&#27777;&#28304;&#21834;</td>
+    <td class=3D"xl66" x:num>179411206</td>
+    <td class=3D"xl71" x:str>F</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#39038;&#39321;&#21531;</td>
+    <td class=3D"xl66" x:str>guchan&#39321;&#33735;</td>
+    <td class=3D"xl66" x:num>10414152</td>
+    <td class=3D"xl71" x:str>G</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#40657;&#21941;</td>
+    <td class=3D"xl66" x:str>&#24320;&#29483;&#23627;&#30340;&#23567;&#40657;&#26412;&#20154;</td>
+    <td class=3D"xl66" x:num>229741493</td>
+    <td class=3D"xl71" x:str>H</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#27946;&#20329;&#38642;</td>
+    <td class=3D"xl68" x:str>&#27946;&#32769;&#26495;&#19981;&#21457;&#24037;&#36164;</td>
+    <td class=3D"xl66" x:num>23841374</td>
+    <td class=3D"xl71" x:str>J</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#27743;&#30495;&#20202;</td>
+    <td class=3D"xl66" x:str>&#32431;&#21517;&#30334;&#21512;&#23376;</td>
+    <td class=3D"xl66" x:num>10399130</td>
+    <td class=3D"xl71" x:str>J</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#33931;&#33464;</td>
+    <td class=3D"xl66" x:str>&#26410;&#26469;.Mirai</td>
+    <td class=3D"xl66" x:num>114866</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26446;&#26230;</td>
+    <td class=3D"xl68" x:str>&#20102;&#19981;&#36215;&#30340;&#26446;&#32654;&#20029;&#23601;&#26159;&#20102;&#19981;&#36215;</td>
+    <td class=3D"xl66" x:num>289973982</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26446;&#33402;&#24420;</td>
+    <td class=3D"xl66" x:str>&#27491;&#30452;&#23569;&#24180;&#26446;&#21457;&#21345;</td>
+    <td class=3D"xl66" x:num>49922172</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26446;&#23431;&#29738;</td>
+    <td class=3D"xl66" x:str>&#30333;&#29483;yuki</td>
+    <td class=3D"xl66" x:num>3882983</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26446;&#38026;</td>
+    <td class=3D"xl68" x:str>&#20320;&#26691;&#20320;&#26691;&#20320;&#26691;&#26691;</td>
+    <td class=3D"xl66" x:num>36054300</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26519;&#26976;</td>
+    <td class=3D"xl66" x:str>&#19968;&#21482;&#26519;Luna</td>
+    <td class=3D"xl66" x:num>1848415</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26519;&#24518;&#23425;</td>
+    <td class=3D"xl66" x:str>ErikaP</td>
+    <td class=3D"xl66" x:num>148077</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#21016;&#20329;&#37995;</td>
+    <td class=3D"xl66" x:str>&#23665;&#31481;&#40060;SaKaNa</td>
+    <td class=3D"xl66" x:num>290581648</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#21016;&#20329;&#37995;</td>
+    <td class=3D"xl66" x:str>&#40060;&#37233;&#12373;&#12363;&#12394;</td>
+    <td class=3D"xl66" x:num>39425760</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#21016;&#22686;&#33395;</td>
+    <td class=3D"xl66" x:str>&#22679;&#12360;&#12427;</td>
+    <td class=3D"xl66" x:num>472626</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#21525;&#19968;</td>
+    <td class=3D"xl66" x:str>&#33261;&#33050;&#30058;&#33540;</td>
+    <td class=3D"xl66" x:num>11399736</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#33707;&#23506;</td>
+    <td class=3D"xl66" x:str>&#33463;&#26132;momo</td>
+    <td class=3D"xl66" x:num>323856</td>
+    <td class=3D"xl71" x:str>M</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl75" height=3D"32" style=3D'height:24.00pt;' x:str>&#28504;&#29141;&#29734;</td>
+    <td class=3D"xl66" x:str>Pinky5257</td>
+    <td class=3D"xl66" x:num>118804984</td>
+    <td class=3D"xl71" x:str>P</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#28504;&#29787;&#29738;</td>
+    <td class=3D"xl66" x:str>&#23569;&#22899;&#32701;&#32701;</td>
+    <td class=3D"xl66" x:num>2028753</td>
+    <td class=3D"xl71" x:str>Q</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#25114;&#20104;&#29664;</td>
+    <td class=3D"xl68" x:str>&#25114;&#29664;&#22969;&#30340;&#23567;&#25151;&#38388;</td>
+    <td class=3D"xl66" x:num>327398898</td>
+    <td class=3D"xl71" x:str>Q</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#31041;&#38745;</td>
+    <td class=3D"xl66" x:str>SKY&#178;</td>
+    <td class=3D"xl66" x:num>13949191</td>
+    <td class=3D"xl71" x:str>Q</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#37041;&#27427;&#24609;</td>
+    <td class=3D"xl66" x:str>RealHayes</td>
+    <td class=3D"xl66" x:num>144873060</td>
+    <td class=3D"xl71" x:str>S</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#37045;&#38634;&#32874;</td>
+    <td class=3D"xl68" x:str>Coco&#37233;&#23567;&#27915;&#33905;</td>
+    <td class=3D"xl66" x:num>18736885</td>
+    <td class=3D"xl71" x:str>S</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#23435;&#26133;&#20873;</td>
+    <td class=3D"xl68" x:str>&#19968;&#39063;&#22826;&#38451;&#26143;rr</td>
+    <td class=3D"xl66" x:num>218837365</td>
+    <td class=3D"xl71" x:str>S</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#23385;&#33454;</td>
+    <td class=3D"xl66" x:str>&#23385;&#33454;&#33454;&#33454;&#33454;&#33454;&#33454;</td>
+    <td class=3D"xl66" x:num>11777755</td>
+    <td class=3D"xl71" x:str>S</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#23385;&#27462;&#25991;</td>
+    <td class=3D"xl68" x:str>&#19968;&#31859;&#20845;&#30340;news</td>
+    <td class=3D"xl66" x:num>35762397</td>
+    <td class=3D"xl71" x:str>T</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#38518;&#27874;&#23572;</td>
+    <td class=3D"xl68" x:str>&#35199;&#29916;&#26377;&#29483;</td>
+    <td class=3D"xl66" x:num>11679116</td>
+    <td class=3D"xl71" x:str>W</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#19975;&#20029;&#23068;</td>
+    <td class=3D"xl66" x:str>&#23567;&#23401;&#23376;&#23569;&#21507;&#31958;</td>
+    <td class=3D"xl66" x:num>3297131</td>
+    <td class=3D"xl71" x:str>W</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#29579;&#26575;&#30805;</td>
+    <td class=3D"xl66" x:str>Sukibiubiubiu</td>
+    <td class=3D"xl66" x:num>25530043</td>
+    <td class=3D"xl71" x:str>W</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#29579;&#28330;&#28304;</td>
+    <td class=3D"xl68" x:str>Maboroshi&#23567;&#24187;</td>
+    <td class=3D"xl66" x:num>8273687</td>
+    <td class=3D"xl71" x:str>W</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#29579;&#26195;&#20339;</td>
+    <td class=3D"xl68" x:str>&#22825;&#38477;&#39118;&#28378;&#33609;</td>
+    <td class=3D"xl66" x:num>789870</td>
+    <td class=3D"xl71" x:str>W</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#29579;&#26195;&#20339;</td>
+    <td class=3D"xl66" x:str>&#22825;&#33609;&#20022;&#26577;&#27224;&#29579;</td>
+    <td class=3D"xl66" x:num>391445</td>
+    <td class=3D"xl71" x:str>W</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#21556;&#29141;&#25991;</td>
+    <td class=3D"xl66" x:str>&#21556;&#29141;&#25991;Wendy</td>
+    <td class=3D"xl66" x:num>18002553</td>
+    <td class=3D"xl71" x:str>W</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#35874;&#22958;</td>
+    <td class=3D"xl66" x:str>&#22958;&#23376;&#34809;</td>
+    <td class=3D"xl66" x:num>3721975</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24464;&#26199;</td>
+    <td class=3D"xl66" x:str>&#23567;&#28879;&#40860;&#22992;&#22992;</td>
+    <td class=3D"xl66" x:num>1985517</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24464;&#35799;&#29738;</td>
+    <td class=3D"xl66" x:str>&#39118;&#21561;&#23567;&#19971;&#21709;&#21486;&#24403;</td>
+    <td class=3D"xl66" x:num>8138650</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24464;&#20234;&#20154;<span style=3D'mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class=3D"xl66" x:str>349&#20170;&#22825;&#19981;&#33829;&#19994;</td>
+    <td class=3D"xl66" x:num>14801692</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24464;&#23376;&#36713;</td>
+    <td class=3D"xl66" x:str>&#32476;&#9734;</td>
+    <td class=3D"xl66" x:num>1846928</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#35768;&#20339;&#29738;</td>
+    <td class=3D"xl76" x:str>&#25105;&#26159;&#35768;&#20339;&#29738;&#20320;&#20449;&#19981;&#20449;</td>
+    <td class=3D"xl66" x:num>18873979</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#35768;&#26472;&#29577;&#29730;</td>
+    <td class=3D"xl66" x:str>&#35768;&#26472;&#29577;&#29730;&#26368;&#32874;&#26126;</td>
+    <td class=3D"xl66" x:num>24104130</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#20005;&#20348;&#21531;</td>
+    <td class=3D"xl66" x:str>&#20179;&#40736;&#28170;</td>
+    <td class=3D"xl66" x:num>139027513</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26472;&#20912;&#24609;</td>
+    <td class=3D"xl68" x:str>&#20108;&#27700;&#25165;&#19981;&#20108;</td>
+    <td class=3D"xl66" x:num>1668990</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26472;&#24800;&#23159;</td>
+    <td class=3D"xl66" x:str>&#28145;&#28023;&#34588;&#26586;</td>
+    <td class=3D"xl66" x:num>4226698</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#23002;&#31054;&#32431;</td>
+    <td class=3D"xl68" x:str>&#32431;&#32431;&#32431;&#21834;w</td>
+    <td class=3D"xl66" x:num>21771240</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#26131;&#22025;&#29233;</td>
+    <td class=3D"xl66" x:str>&#23432;&#24180;</td>
+    <td class=3D"xl66" x:num>1865110</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#34945;&#33322;</td>
+    <td class=3D"xl68" x:str>&#29436;&#29273;&#22303;&#35910;&#23569;&#22899;</td>
+    <td class=3D"xl66" x:num>6282427</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#34945;&#38632;&#26722;</td>
+    <td class=3D"xl66" x:str>&#19981;&#26159;&#20320;&#20426;&#30340;&#20426;</td>
+    <td class=3D"xl66" x:num>213790489</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24352;&#20025;&#19977;</td>
+    <td class=3D"xl66" x:str>dreaming_tansan</td>
+    <td class=3D"xl66" x:num>22317609</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24352;&#22025;&#20104;</td>
+    <td class=3D"xl66" x:str>&#8212;&#26771;&#27792;Azu&#8212;</td>
+    <td class=3D"xl66" x:num>4362314</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24352;&#26133;</td>
+    <td class=3D"xl66" x:str>&#32043;&#33756;xixixi</td>
+    <td class=3D"xl66" x:num>13895395</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#24352;&#24609;</td>
+    <td class=3D"xl68" x:str>&#26647;&#23376;&#26647;&#26647;&#26647;&#20029;</td>
+    <td class=3D"xl66" x:num>16548039</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#36213;&#26196;</td>
+    <td class=3D"xl66" x:str>&#38634;&#37326;&#37326;</td>
+    <td class=3D"xl66" x:num>2310475</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#21608;&#24609;</td>
+    <td class=3D"xl66" x:str>&#30862;&#30862;&#20054;&#23567;&#23401;</td>
+    <td class=3D"xl66" x:num>535729</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#37049;&#20339;&#20339;</td>
+    <td class=3D"xl66" x:str>&#20339;&#20339;&#20339;-zZ</td>
+    <td class=3D"xl66" x:num>18429568</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" style=3D'height:14.25pt;' x:str>&#36716;&#36733;&#35831;&#27880;&#26126;&#20986;&#22788;&#12290;</td>
+    <td colspan=3D"2" style=3D'mso-ignore:colspan;'></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#39033;&#30446;&#22320;&#22336;&#65306;https://github.com/thentrue/SNH48</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width=3D"0" style=3D'display:none;'>
+     <td width=3D"239" style=3D'width:179;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/sheet003.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns=3D"http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+  <meta name=3D"ProgId" content=3D"Excel.Sheet"/>
+  <meta name=3D"Generator" content=3D"WPS Office ET"/>
+  <link id=3D"Main-File" rel=3D"Main-File" href=3D"../BILIBILI 48.mht"/>
+  <link rel=3D"File-List" href=3D"filelist.xml"/>
+  <link rel=3D"Stylesheet" href=3D"stylesheet.css"/>
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:TopRowVisible>21</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveCol>0</x:ActiveCol>
+       <x:ActiveRow>29</x:ActiveRow>
+       <x:RangeSelection>A30</x:RangeSelection>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+     <x:PageBreakZoom>100</x:PageBreakZoom>
+     <x:Print>
+      <x:ValidPrinterInfo/>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+     </x:Print>
+    </x:WorksheetOptions>
+   </xml>
+  <![endif]-->
+  <script language=3D"JavaScript">
+	if (window.name!=3D"frSheet")
+		window.location.replace("../BILIBILI 48.mht");
+	else
+		parent.fnUpdateTabs(2);
+</script>
+ </head>
+ <body link=3D"blue" vlink=3D"purple">
+  <table width=3D"770" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D'width:577.50pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width=3D"231" span=3D"3" style=3D'mso-width-source:userset;mso-width-alt:7392;'/>
+   <col width=3D"77" style=3D'mso-width-source:userset;mso-width-alt:2464;'/>
+   <tr height=3D"41.33" style=3D'height:31.00pt;mso-height-source:userset;mso-height-alt:620;'>
+    <td class=3D"xl72" height=3D"41.33" width=3D"231" style=3D'height:31.00pt;width:173.25pt;' x:str>&#22995;&#21517;</td>
+    <td class=3D"xl72" width=3D"231" style=3D'width:173.25pt;' x:str>&#26165;&#31216;</td>
+    <td class=3D"xl72" width=3D"231" style=3D'width:173.25pt;' x:str>UID</td>
+    <td class=3D"xl72" width=3D"77" style=3D'width:57.75pt;' x:str>&#39318;&#23383;&#27597;</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#38472;&#26690;&#21531;</td>
+    <td class=3D"xl68" x:str>GNZ48-&#38472;&#26690;&#21531;</td>
+    <td class=3D"xl66" x:num>14202012</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#38472;&#24935;&#23143;</td>
+    <td class=3D"xl66" x:str>_Boss_Chen_</td>
+    <td class=3D"xl66" x:num>4673214</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#38472;&#20426;&#23439;</td>
+    <td class=3D"xl68" x:str>&#22812;&#21941;w</td>
+    <td class=3D"xl66" x:num>8315451</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#38472;&#29634;</td>
+    <td class=3D"xl66" x:str>&#27491;&#20041;&#30340;ck</td>
+    <td class=3D"xl66" x:num>22643703</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#38472;&#26976;&#33564;</td>
+    <td class=3D"xl66" x:str>&#38472;&#26976;&#33564;&#21271;</td>
+    <td class=3D"xl66" x:num>3082135</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#38472;&#27427;&#22948;</td>
+    <td class=3D"xl66" x:str>&#33521;&#23156;&#32654;&#20195;&#23376;</td>
+    <td class=3D"xl66" x:num>349787</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#38472;&#38632;&#29738;</td>
+    <td class=3D"xl68" x:str>&#31171;&#24043;&#20024;&#23376;</td>
+    <td class=3D"xl66" x:num>10618034</td>
+    <td class=3D"xl71" x:str>C</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#26460;&#38632;&#24494;</td>
+    <td class=3D"xl66" x:str>&#21654;&#21937;&#30333;</td>
+    <td class=3D"xl66" x:num>1662944</td>
+    <td class=3D"xl71" x:str>D</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#20911;&#22025;&#24076;</td>
+    <td class=3D"xl66" x:str>&#30591;&#26234;&#30340;&#24076;&#23453;</td>
+    <td class=3D"xl66" x:num>10237013</td>
+    <td class=3D"xl71" x:str>F</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#39640;&#28304;&#23143;</td>
+    <td class=3D"xl66" x:str>oxygen&#19981;&#21507;&#22823;&#30424;&#40481;</td>
+    <td class=3D"xl66" x:num>207060928</td>
+    <td class=3D"xl71" x:str>G</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#27946;&#38745;&#38639;</td>
+    <td class=3D"xl66" x:str>hjw&#30340;&#32451;&#20064;&#23567;&#21495;</td>
+    <td class=3D"xl66" x:num>37155175</td>
+    <td class=3D"xl71" x:str>H</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#40644;&#40654;&#33993;</td>
+    <td class=3D"xl66" x:str>&#25105;&#19981;&#20250;&#21578;&#35785;&#20320;&#25105;&#26159;&#40644;&#40654;&#33993;&#30340;</td>
+    <td class=3D"xl66" x:num>7437509</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#26446;&#27777;&#27905;</td>
+    <td class=3D"xl66" x:str>&#26165;&#31216;&#34987;&#25250;&#27880;&#20102;&#30340;kiko</td>
+    <td class=3D"xl66" x:num>5071733</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#26753;&#21487;</td>
+    <td class=3D"xl66" x:str>&#21487;&#21487;&#24039;&#20811;&#21147;&#37233;</td>
+    <td class=3D"xl66" x:num>2227249</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#26519;&#22025;&#20329;</td>
+    <td class=3D"xl68" x:str>GNZ48-&#26519;&#22025;&#20329;</td>
+    <td class=3D"xl66" x:num>22399988</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#21016;&#22025;&#24609;</td>
+    <td class=3D"xl66" x:str>&#19971;&#22969;__&#32650;&#39548;&#19971;</td>
+    <td class=3D"xl66" x:num>6963619</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#21016;&#21147;&#33778;</td>
+    <td class=3D"xl66" x:str>&#34276;&#34276;&#29233;&#21507;&#34276;&#34276;&#33756;</td>
+    <td class=3D"xl66" x:num>133989527</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#21016;&#26790;&#38597;</td>
+    <td class=3D"xl73" x:str>&#19968;&#29255;&#23567;&#27792;&#21494;</td>
+    <td class=3D"xl66" x:num>21673502</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#21016;&#20521;&#20521;<span style=3D'mso-spacerun:yes;'>&nbsp;</span></td>
+    <td class=3D"xl66" x:str>&#21016;&#29399;&#21097;&#23376;</td>
+    <td class=3D"xl66" x:num>106163203</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#40857;&#20134;&#29790;</td>
+    <td class=3D"xl66" x:str>&#22823;&#29790;&#23376;</td>
+    <td class=3D"xl66" x:num>2563979</td>
+    <td class=3D"xl71" x:str>S</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#23385;&#39336;</td>
+    <td class=3D"xl66" x:str>&#20013;&#27888;&#23567;&#34542;&#33136;</td>
+    <td class=3D"xl66" x:num>38444210</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#20924;&#29130;&#26976;</td>
+    <td class=3D"xl66" x:str>&#31601;Sakura</td>
+    <td class=3D"xl66" x:num>1295871</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#35874;&#34174;&#34174;</td>
+    <td class=3D"xl66" x:str>hanaaa&#37233;</td>
+    <td class=3D"xl66" x:num>5607784</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl71" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#29066;&#24515;&#29814;</td>
+    <td class=3D"xl71" x:str>&#33502;&#35895;Haruka</td>
+    <td class=3D"xl71" x:num>2168059</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#24352;&#29756;&#20104;</td>
+    <td class=3D"xl66" x:str>Rinako&#26446;&#22856;&#23376;</td>
+    <td class=3D"xl66" x:num>753038</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"34.67" style=3D'height:26.00pt;mso-height-source:userset;mso-height-alt:520;'>
+    <td class=3D"xl66" height=3D"34.67" style=3D'height:26.00pt;' x:str>&#37073;&#20025;&#22958;</td>
+    <td class=3D"xl66" x:str>&#33976;&#34507;&#27877;&#36229;&#22909;&#21507;</td>
+    <td class=3D"xl66" x:num>11930534</td>
+    <td class=3D"xl71" x:str>Z</td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"4" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" style=3D'height:14.25pt;' x:str>&#36716;&#36733;&#35831;&#27880;&#26126;&#20986;&#22788;&#12290;</td>
+    <td colspan=3D"3" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#39033;&#30446;&#22320;&#22336;&#65306;https://github.com/thentrue/SNH48</td>
+    <td colspan=3D"2" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width=3D"0" style=3D'display:none;'>
+     <td width=3D"231" style=3D'width:173;'></td>
+     <td width=3D"77" style=3D'width:58;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/sheet004.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns=3D"http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+  <meta name=3D"ProgId" content=3D"Excel.Sheet"/>
+  <meta name=3D"Generator" content=3D"WPS Office ET"/>
+  <link id=3D"Main-File" rel=3D"Main-File" href=3D"../BILIBILI 48.mht"/>
+  <link rel=3D"File-List" href=3D"filelist.xml"/>
+  <link rel=3D"Stylesheet" href=3D"stylesheet.css"/>
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:TopRowVisible>6</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveCol>0</x:ActiveCol>
+       <x:ActiveRow>12</x:ActiveRow>
+       <x:RangeSelection>A13</x:RangeSelection>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+     <x:PageBreakZoom>100</x:PageBreakZoom>
+     <x:Print>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+     </x:Print>
+    </x:WorksheetOptions>
+   </xml>
+  <![endif]-->
+  <script language=3D"JavaScript">
+	if (window.name!=3D"frSheet")
+		window.location.replace("../BILIBILI 48.mht");
+	else
+		parent.fnUpdateTabs(3);
+</script>
+ </head>
+ <body link=3D"blue" vlink=3D"purple">
+  <table width=3D"741" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D'width:555.75pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width=3D"223" span=3D"3" style=3D'mso-width-source:userset;mso-width-alt:7136;'/>
+   <col width=3D"72" style=3D'width:54.00pt;'/>
+   <tr height=3D"45.33" style=3D'height:34.00pt;mso-height-source:userset;mso-height-alt:680;'>
+    <td class=3D"xl70" height=3D"45.33" width=3D"223" style=3D'height:34.00pt;width:167.25pt;' x:str>&#22995;&#21517;</td>
+    <td class=3D"xl70" width=3D"223" style=3D'width:167.25pt;' x:str>&#26165;&#31216;</td>
+    <td class=3D"xl70" width=3D"223" style=3D'width:167.25pt;' x:str>UID</td>
+    <td class=3D"xl70" width=3D"72" style=3D'width:54.00pt;' x:str>&#39318;&#23383;&#27597;</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#27573;&#33402;&#29831;</td>
+    <td class=3D"xl68" x:str>&#27573;&#33402;&#29831;&#30340;&#40065;&#25289;&#40065;&#25289;&#21499;</td>
+    <td class=3D"xl66" x:num>85592005</td>
+    <td class=3D"xl71" x:str>D</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#26446;&#24819;</td>
+    <td class=3D"xl66" x:str>&#20004;&#22359;&#38646;&#20116;</td>
+    <td class=3D"xl66" x:num>24656993</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#26446;&#26771;</td>
+    <td class=3D"xl66" x:str>&#27599;&#22825;&#37117;&#22312;&#38271;&#39640;&#30340;Raichi&#37233;</td>
+    <td class=3D"xl66" x:num>20049958</td>
+    <td class=3D"xl71" x:str>L</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#39532;&#29577;&#28789;</td>
+    <td class=3D"xl66" x:str>&#19981;MYL&#32641;</td>
+    <td class=3D"xl66" x:num>23553661</td>
+    <td class=3D"xl71" x:str>M</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#33487;&#26441;&#26441;</td>
+    <td class=3D"xl66" x:str>&#39764;&#27861;&#23569;&#22899;Air&#37233;</td>
+    <td class=3D"xl66" x:num>17196336</td>
+    <td class=3D"xl71" x:str>S</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#39036;&#20952;&#28800;</td>
+    <td class=3D"xl66" x:str>&#23567;&#26143;&#26143;&#26143;&#21714;</td>
+    <td class=3D"xl66" x:num>16481728</td>
+    <td class=3D"xl71" x:str>X</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#38379;&#26126;&#31584;</td>
+    <td class=3D"xl66" x:str>&#33740;&#33735;&#21527;</td>
+    <td class=3D"xl66" x:num>3684011</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#26472;&#19968;&#24070;</td>
+    <td class=3D"xl66" x:str>&#19975;&#24694;&#23569;&#22899;&#26408;&#26131;</td>
+    <td class=3D"xl66" x:num>9261999</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"37.33" style=3D'height:28.00pt;mso-height-source:userset;mso-height-alt:560;'>
+    <td class=3D"xl66" height=3D"37.33" style=3D'height:28.00pt;' x:str>&#37073;&#19968;&#20961;</td>
+    <td class=3D"xl66" x:str>&#26159;&#20010;&#26641;&#25042;</td>
+    <td class=3D"xl66" x:num>109860136</td>
+    <td class=3D"xl71" x:str>Y</td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" style=3D'height:14.25pt;' x:str>&#36716;&#36733;&#35831;&#27880;&#26126;&#20986;&#22788;&#12290;</td>
+    <td colspan=3D"2" style=3D'mso-ignore:colspan;'></td>
+    <td></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#39033;&#30446;&#22320;&#22336;&#65306;https://github.com/thentrue/SNH48</td>
+    <td></td>
+    <td></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width=3D"0" style=3D'display:none;'>
+     <td width=3D"223" style=3D'width:167;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/sheet005.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office" xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns=3D"http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"/>
+  <meta name=3D"ProgId" content=3D"Excel.Sheet"/>
+  <meta name=3D"Generator" content=3D"WPS Office ET"/>
+  <link id=3D"Main-File" rel=3D"Main-File" href=3D"../BILIBILI 48.mht"/>
+  <link rel=3D"File-List" href=3D"filelist.xml"/>
+  <link rel=3D"Stylesheet" href=3D"stylesheet.css"/>
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:WorksheetOptions>
+     <x:DefaultRowHeight>285</x:DefaultRowHeight>
+     <x:TopRowVisible>3</x:TopRowVisible>
+     <x:Panes>
+      <x:Pane>
+       <x:Number>3</x:Number>
+       <x:ActiveCol>0</x:ActiveCol>
+       <x:ActiveRow>18</x:ActiveRow>
+       <x:RangeSelection>A19</x:RangeSelection>
+      </x:Pane>
+     </x:Panes>
+     <x:ProtectContents>False</x:ProtectContents>
+     <x:ProtectObjects>False</x:ProtectObjects>
+     <x:ProtectScenarios>False</x:ProtectScenarios>
+     <x:PageBreakZoom>100</x:PageBreakZoom>
+     <x:Print>
+      <x:PaperSizeIndex>9</x:PaperSizeIndex>
+     </x:Print>
+    </x:WorksheetOptions>
+   </xml>
+  <![endif]-->
+  <script language=3D"JavaScript">
+	if (window.name!=3D"frSheet")
+		window.location.replace("../BILIBILI 48.mht");
+	else
+		parent.fnUpdateTabs(4);
+</script>
+ </head>
+ <body link=3D"blue" vlink=3D"purple">
+  <table width=3D"624" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D'width:468.00pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width=3D"208" span=3D"3" style=3D'mso-width-source:userset;mso-width-alt:6656;'/>
+   <col width=3D"72" span=3D"2" style=3D'width:54.00pt;'/>
+   <col width=3D"83" style=3D'mso-width-source:userset;mso-width-alt:2656;'/>
+   <tr height=3D"44" style=3D'height:33.00pt;mso-height-source:userset;mso-height-alt:660;'>
+    <td class=3D"xl65" height=3D"44" width=3D"208" style=3D'height:33.00pt;width:156.00pt;' x:str>&#22995;&#21517;</td>
+    <td class=3D"xl65" width=3D"208" style=3D'width:156.00pt;' x:str>&#26165;&#31216;</td>
+    <td class=3D"xl65" width=3D"208" style=3D'width:156.00pt;' x:str>UID</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>SNH48</td>
+    <td class=3D"xl66" x:str>SNH48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl66" x:num>2832224</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>GNZ48</td>
+    <td class=3D"xl66" x:str>GNZ48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl66" x:num>27363163</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>BEJ48</td>
+    <td class=3D"xl66" x:str>BEJ48</td>
+    <td class=3D"xl66" x:num>26849519</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl67" height=3D"32" style=3D'height:24.00pt;' x:str>CKG48</td>
+    <td class=3D"xl66" x:str>CKG48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl66" x:num>174377185</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>SHY48</td>
+    <td class=3D"xl66" x:str>SHY48&#23448;&#26041;&#36134;&#21495;</td>
+    <td class=3D"xl66" x:num>71167845</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#21475;&#34955;48</td>
+    <td class=3D"xl66" x:str>&#34955;&#29579;&#35201;&#20107;&#24773;48</td>
+    <td class=3D"xl66" x:num>34793730</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#19997;&#33453;&#24433;&#35270;</td>
+    <td class=3D"xl68" x:str>&#19997;&#33453;&#24433;&#35270;</td>
+    <td class=3D"xl66" x:num>243824507</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td height=3D"32" colspan=3D"3" style=3D'height:24.00pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>Team X</td>
+    <td class=3D"xl68" x:str>&#22868;&#36305;&#30340;GirlX</td>
+    <td class=3D"xl66" x:num>95305735</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>TeamHII</td>
+    <td class=3D"xl66" x:str>H-ZONE</td>
+    <td class=3D"xl66" x:num>201810937</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td height=3D"32" colspan=3D"3" style=3D'height:24.00pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>SII&#33310;&#36424;&#32769;&#24072; &#26417;&#23567;&#24076;</td>
+    <td class=3D"xl66" x:str>raezzz</td>
+    <td class=3D"xl66" x:num>25688851</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td height=3D"32" colspan=3D"3" style=3D'height:24.00pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>SNH48-&#39290;&#23376;&#27036;</td>
+    <td class=3D"xl68" x:str>SNH48-&#39290;&#23376;&#27036;</td>
+    <td class=3D"xl66" x:num>20203379</td>
+   </tr>
+   <tr height=3D"32" style=3D'height:24.00pt;mso-height-source:userset;mso-height-alt:480;'>
+    <td class=3D"xl66" height=3D"32" style=3D'height:24.00pt;' x:str>&#23506;&#24433;AkiNa</td>
+    <td class=3D"xl66" x:str>&#23506;&#24433;AkiNa</td>
+    <td class=3D"xl66" x:num>1315101</td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td height=3D"19" colspan=3D"3" style=3D'height:14.25pt;mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" style=3D'height:14.25pt;' x:str>&#36716;&#36733;&#35831;&#27880;&#26126;&#20986;&#22788;&#12290;</td>
+    <td colspan=3D"2" style=3D'mso-ignore:colspan;'></td>
+   </tr>
+   <tr height=3D"19" style=3D'height:14.25pt;'>
+    <td class=3D"xl69" height=3D"19" colspan=3D"2" style=3D'height:14.25pt;mso-ignore:colspan;' x:str>&#39033;&#30446;&#22320;&#22336;&#65306;https://github.com/thentrue/SNH48</td>
+    <td></td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width=3D"0" style=3D'display:none;'>
+     <td width=3D"208" style=3D'width:156;'></td>
+     <td width=3D"83" style=3D'width:62;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/stylesheet.css
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"\5E38\89C4";
+	mso-style-id:0;}
+.style16
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"\8D27\5E01[0]";
+	mso-style-id:7;}
+.style17
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - \5F3A\8C03\6587\5B57\989C\8272 3";}
+.style18
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"\8F93\5165";}
+.style19
+	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"\8D27\5E01";
+	mso-style-id:4;}
+.style20
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"\5343\4F4D\5206\9694[0]";
+	mso-style-id:6;}
+.style21
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - \5F3A\8C03\6587\5B57\989C\8272 3";}
+.style22
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5DEE";}
+.style23
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"\5343\4F4D\5206\9694";
+	mso-style-id:3;}
+.style24
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - \5F3A\8C03\6587\5B57\989C\8272 3";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\8D85\94FE\63A5";
+	mso-style-id:8;}
+.style26
+	{mso-number-format:"0%";
+	mso-style-name:"\767E\5206\6BD4";
+	mso-style-id:5;}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5DF2\8BBF\95EE\7684\8D85\94FE\63A5";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"\6CE8\91CA";}
+.style29
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - \5F3A\8C03\6587\5B57\989C\8272 2";}
+.style30
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\6807\9898 4";}
+.style31
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\8B66\544A\6587\672C";}
+.style32
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\6807\9898";}
+.style33
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\89E3\91CA\6027\6587\672C";}
+.style34
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"\6807\9898 1";}
+.style35
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"\6807\9898 2";}
+.style36
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - \5F3A\8C03\6587\5B57\989C\8272 1";}
+.style37
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"\6807\9898 3";}
+.style38
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - \5F3A\8C03\6587\5B57\989C\8272 4";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"\8F93\51FA";}
+.style40
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"\8BA1\7B97";}
+.style41
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"\68C0\67E5\5355\5143\683C";}
+.style42
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - \5F3A\8C03\6587\5B57\989C\8272 6";}
+.style43
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5F3A\8C03\6587\5B57\989C\8272 2";}
+.style44
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"\94FE\63A5\5355\5143\683C";}
+.style45
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"\6C47\603B";}
+.style46
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\597D";}
+.style47
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\9002\4E2D";}
+.style48
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - \5F3A\8C03\6587\5B57\989C\8272 5";}
+.style49
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5F3A\8C03\6587\5B57\989C\8272 1";}
+.style50
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - \5F3A\8C03\6587\5B57\989C\8272 1";}
+.style51
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - \5F3A\8C03\6587\5B57\989C\8272 1";}
+.style52
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - \5F3A\8C03\6587\5B57\989C\8272 2";}
+.style53
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - \5F3A\8C03\6587\5B57\989C\8272 2";}
+.style54
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5F3A\8C03\6587\5B57\989C\8272 3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5F3A\8C03\6587\5B57\989C\8272 4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"20% - \5F3A\8C03\6587\5B57\989C\8272 4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - \5F3A\8C03\6587\5B57\989C\8272 4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5F3A\8C03\6587\5B57\989C\8272 5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - \5F3A\8C03\6587\5B57\989C\8272 5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - \5F3A\8C03\6587\5B57\989C\8272 5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"\5F3A\8C03\6587\5B57\989C\8272 6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"40% - \5F3A\8C03\6587\5B57\989C\8272 6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	mso-style-name:"60% - \5F3A\8C03\6587\5B57\989C\8272 6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	mso-pattern:auto;
+	mso-background-source:auto;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:\5B8B\4F53;
+	mso-generic-font-family:auto;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#000000;
+	color:#FFFFFF;
+	font-weight:700;
+	font-style:italic;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-font-charset:134;}
+.xl67
+	{mso-style-parent:style0;
+	text-align:center;
+	color:#000000;
+	mso-font-charset:134;}
+.xl68
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-font-charset:134;}
+.xl69
+	{mso-style-parent:style0;
+	color:#FF0000;
+	mso-font-charset:134;}
+.xl70
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#C00000;
+	color:#FFFFFF;
+	font-weight:700;
+	font-style:italic;
+	mso-font-charset:134;}
+.xl71
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-font-charset:134;}
+.xl72
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#92D050;
+	font-weight:700;
+	font-style:italic;
+	mso-font-charset:134;}
+.xl73
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-font-charset:134;}
+.xl74
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#00B0F0;
+	font-weight:700;
+	font-style:italic;
+	mso-font-charset:134;}
+.xl75
+	{mso-style-parent:style0;
+	text-align:center;
+	color:#1A1A1A;
+	mso-font-charset:134;}
+.xl76
+	{mso-style-parent:style0;
+	text-align:center;
+	color:#222222;
+	font-family:Arial;
+	mso-font-charset:134;}
+.xl77
+	{mso-style-parent:style0;
+	text-align:center;
+	font-weight:700;
+	font-style:italic;
+	mso-font-charset:134;}
+.xl78
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#222222;
+	color:#FFFFFF;
+	mso-font-charset:134;}
+.xl79
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#222222;
+	color:#FFFFFF;
+	mso-font-charset:134;}
+.xl80
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#222222;
+	color:#FFFFFF;
+	mso-font-charset:134;}
+.xl81
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#00B0F0;
+	mso-font-charset:134;}
+.xl82
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#92D050;
+	mso-font-charset:134;}
+.xl83
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#92D050;
+	mso-font-charset:134;}
+.xl84
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#00B0F0;
+	mso-font-charset:134;}
+.xl85
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#C00000;
+	color:#FFFFFF;
+	mso-font-charset:134;}
+.xl86
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#C00000;
+	color:#FFFFFF;
+	mso-font-charset:134;}
+.xl87
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#C00000;
+	color:#FFFFFF;
+	mso-font-charset:134;}
+.xl88
+	{mso-style-parent:style0;
+	text-align:center;
+	white-space:normal;
+	mso-pattern:auto none;
+	background:#92D050;
+	mso-font-charset:134;}
+.xl89
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#00B0F0;
+	color:#1A1A1A;
+	mso-font-charset:134;}
+.xl90
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#222222;
+	color:#FFFFFF;
+	mso-font-charset:134;}
+.xl91
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#92D050;
+	mso-font-charset:134;}
+.xl92
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#92D050;
+	mso-font-charset:134;}
+.xl93
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#92D050;
+	mso-font-charset:134;}
+.xl94
+	{mso-style-parent:style0;
+	text-align:center;
+	mso-pattern:auto none;
+	background:#00B0F0;
+	color:#222222;
+	font-family:Arial;
+	mso-font-charset:134;}
+.xl95
+	{mso-style-parent:style25;
+	color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	mso-font-charset:134;}
+
+
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8
+Content-Location: file:///C:/ksoet/BILIBILI 48.files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="us-ascii"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile href=3D"../BILIBILI 48"/>
+ <o:File href=3D"js.js"/>
+ <o:File href=3D"tabstrip.htm"/>
+ <o:File href=3D"sheet001.htm"/>
+ <o:File href=3D"sheet002.htm"/>
+ <o:File href=3D"sheet003.htm"/>
+ <o:File href=3D"sheet004.htm"/>
+ <o:File href=3D"sheet005.htm"/>
+ <o:File href=3D"stylesheet.css"/>
+ <o:File href=3D"filelist.xml"/>
+</xml>
+------=_NextPart_e3f5647f109a4c70af41d4f110f8b7e8--
